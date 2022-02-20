@@ -19,3 +19,4 @@ print(tuple3)
 tuple1 = ()  # 构造一个空元组
 tuple2 = (10,)  # 构造一个只含1个元素的元组，必须加 ,号
 # string、list 和 tuple 都属于 sequence（序列）。
+
